@@ -299,4 +299,7 @@ mobileandroidapi.punchh.com
 // Dutch the netherlands websites
 // nu.nl
 cds.s5x3j6q5.hwcdn.net
-
+// Microsft Defender
+wdcp.microsoft.com
+wdcpalt.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
