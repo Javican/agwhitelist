@@ -1,0 +1,2 @@
+# agwhitelist
+Adguard White List
