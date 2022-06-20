@@ -2,3 +2,28 @@ clients4.google.com // google maps and other google services
 clients2.google.com // google maps and other google services
 s.youtube.com // Youtube History
 video-stats.l.google.com  // Youtube history
+www.googleapis.com  // youtube app for ios
+youtubei.googleapis.com // youtube app for ios
+oauthaccountmanager.googleapis.com // youtube app for ios
+android.clients.google.com  // google play store
+reminders-pa.googleapis.com // Google keep
+firestore.googleapis.com  // Google Keep
+gstaticadssl.l.google.com // Google Fonts
+googleapis.l.google.com // Gmail Google mail
+dl.google.com // Google Chrome to update on ubuntu
+redirector.gvt1.com // Android TV
+www.msftncsi.com  // Microsoft windows, office skype etc to verify connectivity to internet
+outlook.office365.com // Office 365
+products.office.com // Office 365
+c.s-microsoft.com // Office 365
+i.s-microsoft.com // Office 365
+login.live.com  // Office 365
+login.microsoftonline.com // Office 365
+g.live.com  // Backup bitlocker recovery key to Microsoft Account
+dl.delivery.mp.microsoft.com  // Microsoft Store
+geo-prod.do.dsp.mp.microsoft.com  // Microsoft Store
+displaycatalog.mp.microsoft.com // Microsoft Store
+sls.update.microsoft.com.akadns.net // Windows 10 update
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net // Windows 10 update
+tlu.dl.delivery.mp.microsoft.com  // Windows 10 Update
+msedge.api.cdp.microsoft.com // Microsoft Edge update
