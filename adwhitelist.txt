@@ -1,10 +1,13 @@
-clients4.google.com // google maps and other google services
-clients2.google.com // google maps and other google services
-s.youtube.com // Youtube History
-video-stats.l.google.com  // Youtube history
-www.googleapis.com  // youtube app for ios
-youtubei.googleapis.com // youtube app for ios
-oauthaccountmanager.googleapis.com // youtube app for ios
+//google maps and other google services
+clients4.google.com 
+clients2.google.com 
+// Youtube History
+s.youtube.com 
+video-stats.l.google.com 
+// youtube app for ios
+www.googleapis.com  
+youtubei.googleapis.com 
+oauthaccountmanager.googleapis.com 
 android.clients.google.com  // google play store
 reminders-pa.googleapis.com // Google keep
 firestore.googleapis.com  // Google Keep
@@ -86,6 +89,174 @@ captive.apple.com
 gsp1.apple.com 
 www.apple.com 
 www.appleiphonecell.com
+// jackbox.tv if you have jackbox you need to white list the folowing
+//www.google-analytics.com
+//ssl.google-analytics.com
+// Spotify
+spclient.wg.spotify.com
+apresolve.spotify.com
+api-tv.spotify.com
+// Target weekly ads
+weeklyad.target.com
+m.weeklyad.target.com
+weeklyad.target.com.edgesuite.net
+// facebook messenger
+upload.facebook.com
+creative.ak.fbcdn.net
+external-lhr0-1.xx.fbcdn.net
+external-lhr1-1.xx.fbcdn.net
+external-lhr10-1.xx.fbcdn.net
+external-lhr2-1.xx.fbcdn.net
+external-lhr3-1.xx.fbcdn.net
+external-lhr4-1.xx.fbcdn.net
+external-lhr5-1.xx.fbcdn.net
+external-lhr6-1.xx.fbcdn.net
+external-lhr7-1.xx.fbcdn.net
+external-lhr8-1.xx.fbcdn.net
+external-lhr9-1.xx.fbcdn.net
+fbcdn-creative-a.akamaihd.net
+scontent-lhr3-1.xx.fbcdn.net
+scontent.xx.fbcdn.net
+scontent.fgdl5-1.fna.fbcdn.net
+graph.facebook.com
+b-graph.facebook.com
+connect.facebook.com
+cdn.fbsbx.com
+api.facebook.com
+edge-mqtt.facebook.com
+mqtt.c10r.facebook.com
+portal.fb.com
+star.c10r.facebook.com
+star-mini.c10r.facebook.com
+b-api.facebook.com
+fb.me
+bigzipfiles.facebook.com
+l.facebook.com
+www.facebook.com
+scontent-atl3-1.xx.fbcdn.net
+static.xx.fbcdn.net
+edge-chat.messenger.com
+video.xx.fbcdn.net
+external-ort2-1.xx.fbcdn.net
+scontent-ort2-1.xx.fbcdn.net
+edge-chat.facebook.com
+scontent-mia3-1.xx.fbcdn.net
+web.facebook.com
+rupload.facebook.com
+l.messenger.com
+// Directv
+directvnow.com 
+directvapplications.hb.omtrdc.net 
+s.zkcdn.net 
+js.maxmind.com
+// Bild DE
+//www.asadcdn.com 
+//code.bildstatic.de 
+//de.ioam.de 
+//json.bild.de 
+//script.ioam.de 
+//tags.tiqcdn.com 
+//tagger.opecloud.com
+// Plex domains
+plex.tv
+tvdb2.plex.tv
+pubsub.plex.bz
+proxy.plex.bz
+proxy02.pop.ord.plex.bz
+cpms.spop10.ams.plex.bz
+meta-db-worker02.pop.ric.plex.bz
+meta.plex.bz
+tvthemes.plexapp.com.cdn.cloudflare.net
+tvthemes.plexapp.com
+106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
+meta.plex.tv
+cpms35.spop10.ams.plex.bz
+proxy.plex.tv
+metrics.plex.tv
+pubsub.plex.tv
+status.plex.tv
+www.plex.tv
+node.plexapp.com
+nine.plugins.plexapp.com
+staging.plex.tv
+app.plex.tv
+o1.email.plex.tv
+o2.sg0.plex.tv
+dashboard.plex.tv
+// Domains used by plex
+gravatar.com
+thetvdb.com
+themoviedb.com
+chtbl.com
+// Sonarr
+services.sonarr.tv 
+skyhook.sonarr.tv 
+download.sonarr.tv 
+apt.sonarr.tv 
+forums.sonarr.tv
+// Placehold.it 
+placehold.it 
+placeholdit.imgix.net
+// Dropbox
+dl.dropboxusercontent.com 
+ns1.dropbox.com 
+ns2.dropbox.com
+// Fox News
+widget-cdn.rpxnow.com
+// Images on marketwatch
+s.marketwatch.com
+// Godaddy webmail buttons
+imagesak.secureserver.net
+// WatchESPN
+fpdownload.adobe.com 
+entitlement.auth.adobe.com 
+livepassdl.conviva.com
+// Nvidia Geforce experience
+gfwsl.geforce.com
+// Videos not playing in times.com and nydailynews.com
+delivery.vidible.tv 
+img.vidible.tv 
+videos.vidible.tv 
+edge.api.brightcove.com 
+cdn.vidible.tv
+// Videos not playing in weather.com
+v.w-x.co
+// Moto phones OS updates
+appspot-preview.l.google.com
+// Grand Theft Auto V Online PC
+prod.telemetry.ros.rockstargames.com
+// Chevrolet
+chevrolet.com
+// Epic games store
+tracking.epicgames.com
+// Origin Savegame
+cloudsync-prod.s3.amazonaws.com
+// Red Hat online learning
+79423.analytics.edgekey.net
+// Lowes checkout 
+assets.adobedtm.com
+// Home Depot Checkout
+nexus.ensighten.com
+// Mozilla firefox tracking protection
+tracking-protection.cdn.mozilla.net
+// PS5 recentlty played games
+telemetry-console.api.playstation.com
+// Cannon printers
+gdlp01.c-wss.com
+// Reddit
+styles.redditmedia.com
+www.redditstatic.com
+reddit.map.fastly.net
+www.redditmedia.com
+reddit-uploaded-media.s3-accelerate.amazonaws.com
+// tracking packages sent with dpd
+tracking.dpd.de
+// Whatsapp
+wa.me
+www.wa.me
+^whatsapp-cdn-shv-[0-9]{2}-[a-z]{3}[0-9]\.fbcdn\.net$
+^((www|(w[0-9]\.)?web|media((-[a-z]{3}|\.[a-z]{4})[0-9]{1,2}-[0-9](\.|-)(cdn|fna))?)\.)?whatsapp\.(com|net)$
+
 
 
 
