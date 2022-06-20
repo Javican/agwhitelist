@@ -1,0 +1,4 @@
+clients4.google.com // google maps and other google services
+clients2.google.com // google maps and other google services
+s.youtube.com // Youtube History
+video-stats.l.google.com  // Youtube history
