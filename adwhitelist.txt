@@ -8,38 +8,56 @@ video-stats.l.google.com
 www.googleapis.com  
 youtubei.googleapis.com 
 oauthaccountmanager.googleapis.com 
-android.clients.google.com  // google play store
-reminders-pa.googleapis.com // Google keep
-firestore.googleapis.com  // Google Keep
-gstaticadssl.l.google.com // Google Fonts
-googleapis.l.google.com // Gmail Google mail
-dl.google.com // Google Chrome to update on ubuntu
-redirector.gvt1.com // Android TV
-www.msftncsi.com  // Microsoft windows, office skype etc to verify connectivity to internet
-outlook.office365.com // Office 365
-products.office.com // Office 365
-c.s-microsoft.com // Office 365
-i.s-microsoft.com // Office 365
-login.live.com  // Office 365
-login.microsoftonline.com // Office 365
-g.live.com  // Backup bitlocker recovery key to Microsoft Account
-dl.delivery.mp.microsoft.com  // Microsoft Store
-geo-prod.do.dsp.mp.microsoft.com  // Microsoft Store
-displaycatalog.mp.microsoft.com // Microsoft Store
-sls.update.microsoft.com.akadns.net // Windows 10 update
-fe3.delivery.dsp.mp.microsoft.com.nsatc.net // Windows 10 update
-tlu.dl.delivery.mp.microsoft.com  // Windows 10 Update
-msedge.api.cdp.microsoft.com // Microsoft Edge update
-clientconfig.passport.net // Xbox live
-v10.events.data.microsoft.com // Xbox live achievements
-v20.events.data.microsoft.com // Xbox live achievements
-client-s.gateway.messenger.live.com // Xbox live Messaging
-arc.msn.com // Store app on Servies XandS
-activity.windows.com // EA play on Xbox
-xbox.ipv6.microsoft.com // Xbox Live
-device.auth.xboxlive.com  // Xbox Live
-device.auth.xboxlive.com  // Xbox Live
-title.mgt.xboxlive.com  // Xbox Live
+// google play store
+android.clients.google.com 
+// Google keep
+reminders-pa.googleapis.com 
+firestore.googleapis.com
+// Google Fonts
+gstaticadssl.l.google.com
+// Gmail Google mail
+googleapis.l.google.com
+// Google Chrome to update on ubuntu
+dl.google.com 
+// Android TV
+redirector.gvt1.com 
+// Microsoft windows, office skype etc to verify connectivity to internet
+www.msftncsi.com  
+// Office 365
+outlook.office365.com 
+products.office.com 
+c.s-microsoft.com
+i.s-microsoft.com
+login.live.com
+login.microsoftonline.com
+// Backup bitlocker recovery key to Microsoft Account
+g.live.com
+// Microsoft Store
+dl.delivery.mp.microsoft.com  
+geo-prod.do.dsp.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+// Windows 10 update
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+tlu.dl.delivery.mp.microsoft.com
+// Microsoft Edge update
+msedge.api.cdp.microsoft.com
+// Xbox live
+clientconfig.passport.net 
+// Xbox live achievements
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+// Xbox live Messaging
+client-s.gateway.messenger.live.com 
+// Store app on Servies XandS
+arc.msn.com 
+// EA play on Xbox
+activity.windows.com 
+// Xbox Live
+xbox.ipv6.microsoft.com 
+device.auth.xboxlive.com
+device.auth.xboxlive.com
+title.mgt.xboxlive.com
 xsts.auth.xboxlive.com
 title.auth.xboxlive.com 
 ctldl.windowsupdate.com 
@@ -62,8 +80,8 @@ client-s.gateway.messenger.live.com
 ui.skype.com pricelist.skype.com 
 apps.skype.com m.hotmail.com 
 sa.symcb.com s{1..5}.symcb.com 
-//
-officeclient.microsoft.com // Microsoft Office
+// Microsoft Office
+officeclient.microsoft.com
 // Bing Maps
 dev.virtualearth.net 
 ecn.dev.virtualearth.net 
