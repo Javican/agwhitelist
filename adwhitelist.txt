@@ -321,3 +321,5 @@ cds.s5x3j6q5.hwcdn.net
 wdcp.microsoft.com
 wdcpalt.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
+//// Various
+fave.co
