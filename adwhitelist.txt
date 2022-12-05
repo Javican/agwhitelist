@@ -1,4 +1,4 @@
-//google maps and other google services
+5//google maps and other google services
 clients4.google.com 
 clients2.google.com 
 // Youtube History
@@ -361,4 +361,5 @@ connectivitycheck.gstatic.com
 go.corsair.com
 t.myvisualiq.net
 *.awstrack.me
-Googleadservices.com
+www.googleadservices.com
+
