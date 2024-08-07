@@ -376,4 +376,6 @@ click.dice.com
 email-link.adtidy.org
 bestbuy.7tiv.net
 dearrow.ajay.app
+dearrow-thumb.ajay.app
+sponsor.ajay.app
 
