@@ -1,3 +1,4 @@
 ## Custom block address
 
 www.roblox.com
+auth.roblox.com
