@@ -4,3 +4,4 @@ www.roblox.com
 auth.roblox.com
 crazygames.com
 education.minecraft.net
+playhop.com
