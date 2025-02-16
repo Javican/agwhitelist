@@ -1,4 +1,4 @@
-5//google maps and other google services
+//google maps and other google services
 clients4.google.com 
 clients2.google.com 
 // Youtube History
@@ -385,4 +385,4 @@ trace.svc.ui.com
 data.fans.williamsf1.com
 www.clkmg.com
 www.joinhoney.com
-d.agkn.com //redirector
+d.agkn.com
