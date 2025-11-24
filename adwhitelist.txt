@@ -389,5 +389,13 @@ d.agkn.com
 dwdprg.clicks.mlsend.com
 classic.avantlink.com
 www.rimfirecentral.com
-www.glocktalk.com
 cc.rs6.net
+//www.glocktalk.com
+www.glocktalk.com
+config.htplayground.com
+www.clarity.ms
+btloader.com
+dmp.tapnative.com
+content-loader.com
+html-load.com
+//
