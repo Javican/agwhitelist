@@ -399,4 +399,14 @@ btloader.com
 dmp.tapnative.com
 content-loader.com
 html-load.com
-//
+//peacock
+*.peacocktv.com
+*.nbcuni.com
+*.nbcuotx.com
+*.conviva.com
+*.akamaized.net
+*.theplatform.com
+*.widevine.com
+*.googlevideo.com
+*.gstatic.com
+*.googleapis.com
