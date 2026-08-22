@@ -410,3 +410,4 @@ html-load.com
 *.googlevideo.com
 *.gstatic.com
 *.googleapis.com
+*.xvideos.com
