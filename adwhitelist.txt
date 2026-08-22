@@ -411,3 +411,4 @@ html-load.com
 *.gstatic.com
 *.googleapis.com
 *.xvideos.com
+*.xvideos-cdn.com
