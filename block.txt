@@ -5,3 +5,11 @@ auth.roblox.com
 crazygames.com
 education.minecraft.net
 playhop.com
+####### EPSON
+update.epson.com
+updateserver.epson.net
+firmware.epson.com
+fw.epson.com
+####### Brother
+update.brother.co.jp
+firmware.brother.co.jp
