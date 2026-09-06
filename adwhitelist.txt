@@ -412,3 +412,4 @@ html-load.com
 *.googleapis.com
 *.xvideos.com
 *.xvideos-cdn.com
+feeds.feedblitz.com
