@@ -10,3 +10,7 @@ fw.epson.com
 ####### Brother
 update.brother.co.jp
 firmware.brother.co.jp
+eufylife.com
+anker-in.com
+eufy.com
+
